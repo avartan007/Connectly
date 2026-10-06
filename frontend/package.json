@@ -1,0 +1,33 @@
+{
+    "name": "connectly",
+    "version": "1.0.0",
+    "description": "Connectly video calling platform",
+    "main": "index.js",
+    "scripts": {
+        "start": "vite",
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "author": "avartanathlay",
+    "license": "MIT",
+    "dependencies": {
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.1",
+        "@mui/icons-material": "^9.4.0",
+        "@mui/material": "^9.4.0",
+        "axios": "^0.21.1",
+        "core-js": "^3.2.1",
+        "http-status": "^2.1.0",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^7.18.4",
+        "socket.io-client": "^4.8.4"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.0.0",
+        "vite": "^5.0.0"
+    }
+}
